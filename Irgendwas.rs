@@ -18,7 +18,8 @@ werden!
 }*/
 
 fn main()
-{
+{   
+    println!("Hello, Universe!");
     println!("Ay Caramba Du {}er!\nDie Antwort lautet: {}\nIm Zweifelsfall {} oder {}",
     summe_zweier_zahlen(1.0,0.0), summe_zweier_zahlen(41.0, 1.0), summe_zweier_zahlen(10.0, 11.00), summe_zweier_zahlen(3.0, 2.0));
 }
