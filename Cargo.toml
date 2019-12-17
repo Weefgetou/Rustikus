@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 actix-web = "1.0.9"
+rodio = "0.10.0"
